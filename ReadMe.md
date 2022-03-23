@@ -2,7 +2,7 @@
 This project contains two files:
 
 
-###word_search.py
+**word_search.py**
 This file contains a front and back algorithm for searching through an unsorted array of words.
 The front and back algorithm is optimal for searching through an unsorted array of word as it implements a linear 
 search from the front and the back of the array simultaneously. This algorithm method does not affect the complexity
@@ -31,7 +31,7 @@ print(word_exists)
 ```
 
 
-###linked_list.py
+**linked_list.py**
 This file contains a linked list of several nodes. The nodes are linked together singly to form a linear sequence of
 linked elements. There are two classes in the file 
 1. Node: This is the class for creating several Node instances
@@ -39,27 +39,27 @@ linked elements. There are two classes in the file
 
 Several methods have been implemented into the linkedlist that uses the transversal of a linkedlist to traverse through the nodes and 
 perform operations where necessary. These methods are:
-####view_list()
+**view_list()**
 prints out the data of all the nodes on the linkedlist
 
-###fetch_head()
+**fetch_head()**
 returns the current head of the linkedlist
 
-###next_value(target)
+**next_value(target)**
 returns the data of the node after the target node passed into the method
 
-###preceding_value(target)
+**preceding_value(target)**
 returns the data of the node before the target node passed into the method
 
-###add_element(item)
+**add_element(item)**
 creates a node with the item at the end of the linkedlist
 
-###add_element_to_start(item)
+**add_element_to_start(item)**
 creates a node with the item at the beginning of the linkedlist
 
-###remove_node(target)
+**remove_node(target)**
 removes the node with the target data from the linkedlist
 
 
 
-####Open and run the main.py file to see a demo of the two files.
+Open and run the main.py file to see a demo of the two files.
