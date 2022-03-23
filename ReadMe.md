@@ -1,4 +1,4 @@
-## Front to back Search Algorithm and Linked List
+## Front to Back Word Search Algorithm and Linked List
 This project contains two files:
 
 
